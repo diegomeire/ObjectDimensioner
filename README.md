@@ -16,14 +16,22 @@ carthage update
 #### 1. Camera Calibration
 Calibrate the camera by pointing the camera to a printed version of the following document: https://nerian.com/support/resources/patterns/
 <kbd>
-  <img src="IMG_5179.JPG"/>
+  <img src="CameraCalibration.gif"/>
 </kbd>
 
 #### 2. Set the background 
 You need a monochromatic background to apply a chroma-key effect. Point the camera to the background. This will give you the colors. Select which ones you want to use apply the chroma-key effect.
 <kbd>
-    <img src="IMG_5180.JPG"/>
+    <img src="GetColors.gif"/>
 </kbd>
+
+#### 3. Adjust Brightness and Saturation
+<kbd>
+    <img src="ApplyChromaKey.gif"/>
+</kbd>
+
+#### 4. Adjust the object detection threshold
+
 
 #### 3. Place two objects on the scene. On the left, place an object which you know the measurements
 <kbd>
@@ -32,9 +40,8 @@ You need a monochromatic background to apply a chroma-key effect. Point the came
 
 #### 4. Inform the real dimensions for this object and confirm
 
-#### 5. Adjust Brightness and Saturation
 
-#### 6. Adjust the object detection threshold
+
 
 
 #### 7. Get the dimensions for the object on the right
