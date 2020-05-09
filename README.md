@@ -30,12 +30,16 @@ carthage update
     <img src="ApplyChromaKey.gif"/>
 </kbd>
 
-#### 4. Adjust the object detection threshold
+#### 4. Place an object on left which you the size of. Inform the width and height for that object
+<kbd>
+    <img src="ObjectDimensioning.gif"/>
+</kbd>
 
 
-#### 5. Get the dimensions for the object on the right
-
-
+#### 5. The width and height shown here is the size calculated for the item on the right 
+<kbd>
+    <img src="FinalObjectSize.jpeg"/>
+</kbd>
 
 
 
