@@ -25,7 +25,7 @@ carthage update
     <img src="GetColors.gif"/>
 </kbd>
 
-#### 3. Adjust Brightness and Saturation
+#### 3. Adjust Brightness and Saturation and object detection threshold
 <kbd>
     <img src="ApplyChromaKey.gif"/>
 </kbd>
@@ -33,18 +33,7 @@ carthage update
 #### 4. Adjust the object detection threshold
 
 
-#### 3. Place two objects on the scene. On the left, place an object which you know the measurements
-<kbd>
-    <img src="IMG_5178.JPG"/>
-</kbd>
-
-#### 4. Inform the real dimensions for this object and confirm
-
-
-
-
-
-#### 7. Get the dimensions for the object on the right
+#### 5. Get the dimensions for the object on the right
 
 
 
@@ -52,10 +41,6 @@ carthage update
 
 
 #### Have fun!
-
-<kbd>
-      <img src="InvisibleCloak.gif"/>
-</kbd>
 
 
 ## Thanks
