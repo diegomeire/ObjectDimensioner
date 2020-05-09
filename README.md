@@ -2,9 +2,9 @@
 Object Dimensioner implemented on iOS with OpenCV.
 With this utility you can measure any object using image processing.
 This app works on three steps: 
-1- Subsitute a background color with white (chrome key)
-2- Find the contours of object on the screen
-3- Given the dimensions of an known object it will calculate the dimensions of another
+#### 1- Subsitute a background color with white (chrome key)
+#### 2- Find the contours of object on the screen
+#### 3- Given the dimensions of an known object it will calculate the dimensions of another
 
 ## Installation
 
@@ -14,13 +14,13 @@ carthage update
 ````
 ## How to use the app
 #### 1. Camera Calibration
-Calibrate the camera by pointing the camera to a printed version of the following document: https://nerian.com/support/resources/patterns/
+##### Calibrate the camera by pointing the camera to a printed version of the following document: https://nerian.com/support/resources/patterns/
 <kbd>
-  <img src="CameraCalibration.gif"/>
+  <img src="CalibrateCamera.gif"/>
 </kbd>
 
 #### 2. Set the background 
-You need a monochromatic background to apply a chroma-key effect. Point the camera to the background. This will give you the colors. Select which ones you want to use apply the chroma-key effect.
+##### You need a monochromatic background to apply a chroma-key effect. Point the camera to the background. This will give you the colors. Select which ones you want to use apply the chroma-key effect.
 <kbd>
     <img src="GetColors.gif"/>
 </kbd>
