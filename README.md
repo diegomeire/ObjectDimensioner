@@ -15,17 +15,19 @@ carthage update
 ## How to use the app
 #### 1. Camera Calibration
 ##### Calibrate the camera by pointing the camera to a printed version of the following document: https://nerian.com/support/resources/patterns/
+##### This can take a while
 <kbd>
   <img src="CalibrateCamera.gif"/>
 </kbd>
 
 #### 2. Set the background 
-##### You need a monochromatic background to apply a chroma-key effect. Point the camera to the background. This will give you the colors. Select which ones you want to use apply the chroma-key effect.
+##### On the next screen, you need to set a monochromatic background to apply a chroma-key effect. Point the camera to the background. This will give you the colors. Select which ones you want to use apply the chroma-key effect.
 <kbd>
     <img src="GetColors.gif"/>
 </kbd>
 
 #### 3. Adjust Brightness and Saturation and object detection threshold
+##### On the final screen, you need to set the brightness and saturation limits to remove the colors set in the previous screen. Also, you need to set the thresholds to detect the contours.
 <kbd>
     <img src="ApplyChromaKey.gif"/>
 </kbd>
